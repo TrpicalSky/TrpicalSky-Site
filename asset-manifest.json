@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TrpicalSky/TrpicalSky-Site/static/css/main.523eee1d.css",
-    "main.js": "/TrpicalSky/TrpicalSky-Site/static/js/main.ae1f908e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/TrpicalSky/TrpicalSky-Site/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/TrpicalSky/TrpicalSky-Site/index.html",
-    "main.523eee1d.css.map": "/TrpicalSky/TrpicalSky-Site/static/css/main.523eee1d.css.map",
-    "main.ae1f908e.js.map": "/TrpicalSky/TrpicalSky-Site/static/js/main.ae1f908e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/TrpicalSky/TrpicalSky-Site/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/TrpicalSky-Site/static/css/main.523eee1d.css",
+    "main.js": "/TrpicalSky-Site/static/js/main.680120a5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TrpicalSky-Site/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TrpicalSky-Site/index.html",
+    "main.523eee1d.css.map": "/TrpicalSky-Site/static/css/main.523eee1d.css.map",
+    "main.680120a5.js.map": "/TrpicalSky-Site/static/js/main.680120a5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TrpicalSky-Site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.523eee1d.css",
-    "static/js/main.ae1f908e.js"
+    "static/js/main.680120a5.js"
   ]
 }
