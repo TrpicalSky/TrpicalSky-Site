@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://github.com/TrpicalSky/TrpicalSky-Site",
+  "homepage": "https://TrpicalSky.github.io/TrpicalSky-Site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
